@@ -1,5 +1,4 @@
-# By Raymond Tang for Coursera: Getting and Cleaning Data (Assignment) 2014 April
-
+# By Akash Bijay Dangol for Coursera: Getting and Cleaning Data (Assignment) May 2016
 run_analysis <- function(){
   # load test data  
   subject_test = read.table("UCI HAR Dataset/test/subject_test.txt")
